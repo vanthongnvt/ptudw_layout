@@ -12,11 +12,6 @@ body{
 	-o-box-shadow: 0 0 3px -1px #a7a7a7;
 	border-radius: 3px;
 }
-.row{
-	display: -ms-flexbox;
-	display: -webkit-box;
-	display: -moz-box;
-}
 p{
 	margin: 0;
 }
@@ -161,8 +156,6 @@ button:focus{
 .flex{
 	display: flex;
 	display: -ms-flexbox;
-	display: -webkit-box;
-	display: -moz-box;
 }
 .services-text-1, .features-text-1, .screenshoots-text-1{
 	font-size: 17px;
